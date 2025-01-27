@@ -51,3 +51,4 @@ trainer.train()
 accelerate launch train_dpo.py
 ```
  - Note that if you are using a computer without a GPU, this training may take several hours
+ - Training with RTX 4060 Ti 16GB took ~2 minutes
