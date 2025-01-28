@@ -24,6 +24,13 @@ pip install datasets
 pip install trl
 pip install transformers
 ```
+MacOS Instructions:
+```
+pip3 install datasets
+pip3 install datasets
+pip3 install datasets
+
+```
  - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior:
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
