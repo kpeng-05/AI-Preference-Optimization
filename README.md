@@ -29,7 +29,6 @@ MacOS Instructions:
 pip3 install datasets
 pip3 install datasets
 pip3 install datasets
-
 ```
  - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior:
 ```
@@ -59,3 +58,6 @@ accelerate launch train_dpo.py
 ```
  - Note that if you are using a computer without a GPU, this training may take several hours
  - Training with RTX 4060 Ti 16GB took ~2 minutes
+
+## KTO Training
+ - Original instructions are found at https://huggingface.co/docs/trl/main/en/kto_trainer
