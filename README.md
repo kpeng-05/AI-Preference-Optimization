@@ -27,8 +27,8 @@ pip install transformers
 MacOS Instructions:
 ```
 pip3 install datasets
-pip3 install datasets
-pip3 install datasets
+pip3 install trl
+pip3 install transformers
 ```
  - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior:
 ```
