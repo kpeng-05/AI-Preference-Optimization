@@ -58,7 +58,7 @@ accelerate launch train_dpo.py
 ```
  - Note that if you are using a computer without a GPU, this training may take several hours
  - Training with RTX 4060 Ti 16GB took ~2 minutes
- - You can test the trained model with the following command:
+ - You can test the trained model with the following command (you do not need to have trained a model to do this, just make sure you have the correct libraries installed):
 ```
 trl chat --model_name_or_path kpeng-05/Qwen2.5-0.5B-DPO
 ```
