@@ -44,11 +44,11 @@ from datasets import load_dataset
 from trl import DPOConfig, DPOTrainer
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2-0.5B-Instruct")
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B-Instruct")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct")
 train_dataset = load_dataset("kpeng-05/dpo_dataset", split="train")
 
-training_args = DPOConfig(output_dir="Qwen2-0.5B-DPO", logging_steps=10)
+training_args = DPOConfig(output_dir="Qwen2.5-0.5B-DPO", logging_steps=10)
 trainer = DPOTrainer(model=model, args=training_args, processing_class=tokenizer, train_dataset=train_dataset)
 trainer.train()
 ```
@@ -60,7 +60,7 @@ accelerate launch train_dpo.py
  - Training with RTX 4060 Ti 16GB took ~2 minutes
  - You can test the trained model with the following command:
 ```
-trl chat --model_name_or_path trl-lib/Qwen2-0.5B-DPO
+trl chat --model_name_or_path kpeng-05/Qwen2.5-0.5B-DPO
 ```
 
 ## KTO Training
