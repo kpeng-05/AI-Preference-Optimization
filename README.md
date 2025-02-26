@@ -65,3 +65,20 @@ trl chat --model_name_or_path kpeng-05/Qwen2.5-0.5B-DPO
 
 ## KTO Training
  - Original instructions are found at https://huggingface.co/docs/trl/main/en/kto_trainer
+
+ - Cleaning Dataset (Mihika's Code Below)
+```
+import pandas as pd
+
+kto = pd.read_csv(<filepath>)
+
+kto['Age'] = kto['Age'].astype(str)
+
+kto['Prompt'] = kto['Age'] + "_" + kto['CancerStage']
+
+kto['Completion']  = kto['Surgical Intervention_Thumbs'].str.cat(kto['Chemotherapy_Thumbs'], '_').str.cat(kto['Radiation Therapy_Thumbs'], '_').str.cat(kto['Palliative Care_Thumbs'], '_').str.cat(kto['Complementary Medicine_Thumbs'], '_')
+
+kto = kto.drop(columns = ['Age', 'CancerStage', 'Surgical Intervention_Thumbs', 'Chemotherapy_Thumbs', 'Radiation Therapy_Thumbs', 'Palliative Care_Thumbs', 'Complementary Medicine_Thumbs'])
+
+kto.head(5)
+```
