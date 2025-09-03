@@ -2,6 +2,7 @@
 AI Preference Optimization for Healthcare - centered around DPO and KTO training
 
 ## Getting Started
+ - Skip ahead to Longleaf if using that
  - Start creating a Python project environment, I recommend a Conda environment
  - Miniconda install - Windows Powershell, run these commands separately
 ```
@@ -82,5 +83,27 @@ kto = kto.drop(columns = ['Age', 'CancerStage', 'Surgical Intervention_Thumbs', 
 
 kto.head(5)
 ```
-# Longleaf Login
+# Longleaf Login & Setup
 Request access to Longleaf via the UNC Research Computing website. After receiving access, log into the account and navigate to Clusters, and then Longleaf Cluster Access.
+ - Set up a conda environment and install the listed dependencies in the Getting Started section (datasets, transformers, trl), documentation on how to activate the environment is also listed
+ - Use `module load cuda/12.9` before attempting to download torch (or you can just download the CUDA files, up to you)
+ - Run the SLURM script (example below):
+```
+#!/bin/bash
+
+#SBATCH -n 1
+#SBATCH --cpus-per-task=12
+#SBATCH --mem=20g
+#SBATCH -t 2-
+#SBATCH -p a100-gpu
+#SBATCH --qos=gpu_access
+#SBATCH --gres=gpu:1
+#SBATCH --mail-type=end
+#SBATCH --mail-user=<onyen>@email.unc.edu
+
+module purge
+## Replace 12.9 with whatever version you created the environment with
+module load cuda/12.9
+module load anaconda
+conda activate <env_name>
+python myscript.py
