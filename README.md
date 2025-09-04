@@ -31,9 +31,9 @@ pip3 install datasets
 pip3 install trl
 pip3 install transformers
 ```
- - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior. Replace `cu118` with your current version.
+ - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior. Replace `cu129` with your current version.
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129
 ```
 
 ## DPO Training
