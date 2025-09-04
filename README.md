@@ -85,7 +85,7 @@ kto.head(5)
 ```
 # Longleaf Login & Setup
 Request access to Longleaf via the UNC Research Computing website. After receiving access, log into the account and navigate to Clusters, and then Longleaf Cluster Access.
- - Set up a conda environment and install the listed dependencies in the Getting Started section (datasets, transformers, trl), documentation on how to activate the environment is also listed
+ - [Set up a conda environment](https://help.rc.unc.edu/python-packages/#conda) and install the listed dependencies in the Getting Started section (datasets, transformers, trl), documentation on how to activate the environment is also listed
  - Use `module load cuda/12.9` before attempting to download torch (or you can just download the CUDA files, up to you)
  - Run the SLURM script (example below):
 ```
