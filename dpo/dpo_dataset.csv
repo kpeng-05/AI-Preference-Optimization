@@ -1,0 +1,1001 @@
+PatientID,Age,CancerStage,PreferredOption,NonPreferredOption
+0,65,Stage IV,Chemotherapy,Surgical Intervention
+1,56,Stage III,Radiation Therapy,Palliative Care
+2,67,Stage II,Chemotherapy,Palliative Care
+3,57,Stage IV,Palliative Care,Surgical Intervention
+4,53,Stage IV,Radiation Therapy,Surgical Intervention
+5,52,Stage II,Surgical Intervention,Palliative Care
+6,73,Stage I,Palliative Care,Complementary Medicine
+7,47,Stage I,Surgical Intervention,Palliative Care
+8,58,Stage III,Radiation Therapy,Surgical Intervention
+9,64,Stage III,Radiation Therapy,Surgical Intervention
+10,68,Stage I,Surgical Intervention,Palliative Care
+11,72,Stage II,Surgical Intervention,Palliative Care
+12,44,Stage IV,Chemotherapy,Surgical Intervention
+13,74,Stage IV,Chemotherapy,Surgical Intervention
+14,52,Stage IV,Chemotherapy,Surgical Intervention
+15,41,Stage III,Radiation Therapy,Surgical Intervention
+16,50,Stage III,Radiation Therapy,Palliative Care
+17,77,Stage I,Surgical Intervention,Palliative Care
+18,79,Stage IV,Radiation Therapy,Surgical Intervention
+19,60,Stage IV,Complementary Medicine,Surgical Intervention
+20,57,Stage III,Chemotherapy,Palliative Care
+21,67,Stage II,Radiation Therapy,Palliative Care
+22,64,Stage IV,Chemotherapy,Surgical Intervention
+23,57,Stage IV,Chemotherapy,Surgical Intervention
+24,43,Stage I,Complementary Medicine,Palliative Care
+25,46,Stage III,Chemotherapy,Palliative Care
+26,40,Stage IV,Palliative Care,Surgical Intervention
+27,55,Stage IV,Palliative Care,Surgical Intervention
+28,72,Stage II,Surgical Intervention,Palliative Care
+29,63,Stage IV,Palliative Care,Surgical Intervention
+30,67,Stage IV,Chemotherapy,Surgical Intervention
+31,46,Stage II,Surgical Intervention,Complementary Medicine
+32,65,Stage I,Surgical Intervention,Palliative Care
+33,50,Stage III,Chemotherapy,Surgical Intervention
+34,67,Stage III,Chemotherapy,Palliative Care
+35,54,Stage IV,Chemotherapy,Surgical Intervention
+36,47,Stage I,Surgical Intervention,Palliative Care
+37,55,Stage IV,Chemotherapy,Surgical Intervention
+38,40,Stage II,Surgical Intervention,Palliative Care
+39,80,Stage III,Radiation Therapy,Palliative Care
+40,67,Stage III,Radiation Therapy,Palliative Care
+41,71,Stage III,Radiation Therapy,Palliative Care
+42,45,Stage II,Surgical Intervention,Palliative Care
+43,47,Stage IV,Complementary Medicine,Surgical Intervention
+44,75,Stage III,Chemotherapy,Surgical Intervention
+45,41,Stage I,Palliative Care,Palliative Care
+46,43,Stage III,Chemotherapy,Palliative Care
+47,48,Stage II,Surgical Intervention,Complementary Medicine
+48,63,Stage II,Complementary Medicine,Palliative Care
+49,57,Stage II,Surgical Intervention,Palliative Care
+50,44,Stage I,Surgical Intervention,Palliative Care
+51,48,Stage I,Chemotherapy,Palliative Care
+52,72,Stage IV,Palliative Care,Surgical Intervention
+53,54,Stage III,Chemotherapy,Complementary Medicine
+54,59,Stage II,Complementary Medicine,Palliative Care
+55,65,Stage IV,Palliative Care,Surgical Intervention
+56,66,Stage IV,Palliative Care,Surgical Intervention
+57,78,Stage IV,Palliative Care,Surgical Intervention
+58,57,Stage III,Complementary Medicine,Palliative Care
+59,58,Stage I,Surgical Intervention,Palliative Care
+60,50,Stage III,Complementary Medicine,Surgical Intervention
+61,72,Stage III,Chemotherapy,Palliative Care
+62,80,Stage II,Chemotherapy,Palliative Care
+63,48,Stage II,Surgical Intervention,Palliative Care
+64,44,Stage I,Surgical Intervention,Palliative Care
+65,73,Stage IV,Palliative Care,Surgical Intervention
+66,41,Stage III,Chemotherapy,Complementary Medicine
+67,71,Stage I,Complementary Medicine,Palliative Care
+68,51,Stage I,Surgical Intervention,Palliative Care
+69,74,Stage II,Surgical Intervention,Palliative Care
+70,48,Stage I,Surgical Intervention,Complementary Medicine
+71,59,Stage II,Complementary Medicine,Palliative Care
+72,72,Stage IV,Chemotherapy,Surgical Intervention
+73,60,Stage I,Surgical Intervention,Palliative Care
+74,58,Stage II,Chemotherapy,Complementary Medicine
+75,48,Stage I,Surgical Intervention,Palliative Care
+76,78,Stage II,Surgical Intervention,Palliative Care
+77,79,Stage III,Chemotherapy,Palliative Care
+78,74,Stage I,Surgical Intervention,Complementary Medicine
+79,71,Stage II,Surgical Intervention,Palliative Care
+80,76,Stage IV,Chemotherapy,Surgical Intervention
+81,44,Stage II,Surgical Intervention,Palliative Care
+82,68,Stage I,Surgical Intervention,Palliative Care
+83,53,Stage III,Chemotherapy,Palliative Care
+84,41,Stage IV,Radiation Therapy,Surgical Intervention
+85,66,Stage II,Surgical Intervention,Palliative Care
+86,61,Stage I,Surgical Intervention,Palliative Care
+87,60,Stage II,Complementary Medicine,Palliative Care
+88,57,Stage I,Surgical Intervention,Palliative Care
+89,57,Stage II,Surgical Intervention,Palliative Care
+90,44,Stage I,Surgical Intervention,Palliative Care
+91,50,Stage IV,Radiation Therapy,Surgical Intervention
+92,79,Stage IV,Complementary Medicine,Surgical Intervention
+93,75,Stage IV,Radiation Therapy,Surgical Intervention
+94,61,Stage II,Surgical Intervention,Palliative Care
+95,43,Stage IV,Radiation Therapy,Surgical Intervention
+96,75,Stage III,Chemotherapy,Palliative Care
+97,57,Stage I,Surgical Intervention,Palliative Care
+98,46,Stage II,Surgical Intervention,Palliative Care
+99,80,Stage I,Surgical Intervention,Palliative Care
+100,41,Stage III,Chemotherapy,Palliative Care
+101,79,Stage I,Surgical Intervention,Palliative Care
+102,76,Stage I,Surgical Intervention,Complementary Medicine
+103,48,Stage IV,Palliative Care,Surgical Intervention
+104,45,Stage III,Chemotherapy,Palliative Care
+105,77,Stage II,Surgical Intervention,Palliative Care
+106,67,Stage III,Chemotherapy,Surgical Intervention
+107,69,Stage IV,Radiation Therapy,Surgical Intervention
+108,61,Stage II,Palliative Care,Palliative Care
+109,63,Stage IV,Radiation Therapy,Surgical Intervention
+110,50,Stage IV,Chemotherapy,Surgical Intervention
+111,40,Stage III,Chemotherapy,Surgical Intervention
+112,56,Stage III,Chemotherapy,Palliative Care
+113,63,Stage III,Chemotherapy,Palliative Care
+114,52,Stage I,Surgical Intervention,Complementary Medicine
+115,44,Stage IV,Complementary Medicine,Surgical Intervention
+116,74,Stage I,Surgical Intervention,Complementary Medicine
+117,44,Stage III,Radiation Therapy,Palliative Care
+118,74,Stage II,Chemotherapy,Palliative Care
+119,68,Stage III,Chemotherapy,Complementary Medicine
+120,63,Stage IV,Chemotherapy,Surgical Intervention
+121,57,Stage II,Radiation Therapy,Palliative Care
+122,61,Stage III,Palliative Care,Palliative Care
+123,73,Stage I,Surgical Intervention,Palliative Care
+124,75,Stage II,Surgical Intervention,Complementary Medicine
+125,54,Stage I,Surgical Intervention,Palliative Care
+126,42,Stage II,Surgical Intervention,Palliative Care
+127,59,Stage III,Radiation Therapy,Complementary Medicine
+128,59,Stage II,Surgical Intervention,Palliative Care
+129,58,Stage IV,Chemotherapy,Surgical Intervention
+130,70,Stage III,Chemotherapy,Surgical Intervention
+131,55,Stage II,Surgical Intervention,Palliative Care
+132,72,Stage III,Chemotherapy,Palliative Care
+133,64,Stage IV,Radiation Therapy,Surgical Intervention
+134,59,Stage IV,Palliative Care,Surgical Intervention
+135,63,Stage I,Surgical Intervention,Palliative Care
+136,49,Stage III,Chemotherapy,Palliative Care
+137,47,Stage II,Chemotherapy,Palliative Care
+138,53,Stage I,Surgical Intervention,Palliative Care
+139,74,Stage III,Chemotherapy,Surgical Intervention
+140,52,Stage IV,Palliative Care,Surgical Intervention
+141,67,Stage I,Surgical Intervention,Palliative Care
+142,57,Stage II,Surgical Intervention,Palliative Care
+143,57,Stage I,Surgical Intervention,Palliative Care
+144,52,Stage II,Surgical Intervention,Palliative Care
+145,51,Stage II,Surgical Intervention,Palliative Care
+146,61,Stage II,Surgical Intervention,Palliative Care
+147,70,Stage III,Chemotherapy,Palliative Care
+148,57,Stage I,Surgical Intervention,Palliative Care
+149,67,Stage II,Surgical Intervention,Palliative Care
+150,78,Stage IV,Chemotherapy,Surgical Intervention
+151,58,Stage IV,Chemotherapy,Surgical Intervention
+152,41,Stage III,Radiation Therapy,Palliative Care
+153,70,Stage III,Chemotherapy,Palliative Care
+154,78,Stage I,Surgical Intervention,Palliative Care
+155,70,Stage III,Radiation Therapy,Palliative Care
+156,49,Stage IV,Radiation Therapy,Surgical Intervention
+157,66,Stage III,Chemotherapy,Palliative Care
+158,65,Stage IV,Chemotherapy,Surgical Intervention
+159,69,Stage I,Surgical Intervention,Palliative Care
+160,75,Stage III,Chemotherapy,Palliative Care
+161,60,Stage IV,Palliative Care,Surgical Intervention
+162,67,Stage II,Surgical Intervention,Palliative Care
+163,44,Stage III,Chemotherapy,Palliative Care
+164,45,Stage III,Chemotherapy,Palliative Care
+165,59,Stage III,Radiation Therapy,Complementary Medicine
+166,41,Stage II,Chemotherapy,Complementary Medicine
+167,61,Stage II,Chemotherapy,Palliative Care
+168,65,Stage I,Surgical Intervention,Palliative Care
+169,74,Stage II,Chemotherapy,Palliative Care
+170,40,Stage I,Surgical Intervention,Palliative Care
+171,47,Stage III,Chemotherapy,Complementary Medicine
+172,41,Stage I,Surgical Intervention,Palliative Care
+173,56,Stage III,Chemotherapy,Surgical Intervention
+174,54,Stage IV,Palliative Care,Surgical Intervention
+175,42,Stage I,Complementary Medicine,Palliative Care
+176,42,Stage I,Surgical Intervention,Complementary Medicine
+177,68,Stage II,Surgical Intervention,Palliative Care
+178,75,Stage IV,Radiation Therapy,Surgical Intervention
+179,73,Stage IV,Chemotherapy,Surgical Intervention
+180,50,Stage II,Surgical Intervention,Palliative Care
+181,40,Stage II,Surgical Intervention,Palliative Care
+182,73,Stage IV,Palliative Care,Surgical Intervention
+183,63,Stage I,Surgical Intervention,Complementary Medicine
+184,64,Stage IV,Radiation Therapy,Surgical Intervention
+185,69,Stage I,Surgical Intervention,Complementary Medicine
+186,51,Stage IV,Chemotherapy,Surgical Intervention
+187,79,Stage III,Chemotherapy,Palliative Care
+188,54,Stage II,Surgical Intervention,Complementary Medicine
+189,60,Stage III,Chemotherapy,Complementary Medicine
+190,40,Stage III,Radiation Therapy,Palliative Care
+191,41,Stage I,Surgical Intervention,Palliative Care
+192,49,Stage II,Chemotherapy,Complementary Medicine
+193,61,Stage IV,Radiation Therapy,Surgical Intervention
+194,78,Stage I,Surgical Intervention,Palliative Care
+195,79,Stage I,Surgical Intervention,Palliative Care
+196,70,Stage IV,Chemotherapy,Surgical Intervention
+197,79,Stage IV,Chemotherapy,Surgical Intervention
+198,68,Stage IV,Palliative Care,Surgical Intervention
+199,45,Stage III,Chemotherapy,Palliative Care
+200,75,Stage II,Surgical Intervention,Palliative Care
+201,53,Stage I,Surgical Intervention,Complementary Medicine
+202,54,Stage IV,Chemotherapy,Surgical Intervention
+203,73,Stage IV,Radiation Therapy,Surgical Intervention
+204,76,Stage I,Surgical Intervention,Palliative Care
+205,63,Stage I,Surgical Intervention,Palliative Care
+206,70,Stage IV,Chemotherapy,Surgical Intervention
+207,64,Stage III,Radiation Therapy,Palliative Care
+208,66,Stage II,Surgical Intervention,Palliative Care
+209,70,Stage II,Surgical Intervention,Palliative Care
+210,43,Stage IV,Chemotherapy,Surgical Intervention
+211,56,Stage IV,Chemotherapy,Surgical Intervention
+212,75,Stage III,Chemotherapy,Surgical Intervention
+213,41,Stage III,Chemotherapy,Surgical Intervention
+214,62,Stage III,Chemotherapy,Surgical Intervention
+215,71,Stage I,Surgical Intervention,Palliative Care
+216,43,Stage II,Surgical Intervention,Palliative Care
+217,66,Stage IV,Chemotherapy,Surgical Intervention
+218,45,Stage III,Chemotherapy,Palliative Care
+219,55,Stage II,Radiation Therapy,Palliative Care
+220,73,Stage IV,Chemotherapy,Surgical Intervention
+221,69,Stage IV,Radiation Therapy,Surgical Intervention
+222,74,Stage II,Surgical Intervention,Palliative Care
+223,44,Stage III,Chemotherapy,Palliative Care
+224,63,Stage II,Surgical Intervention,Palliative Care
+225,71,Stage IV,Chemotherapy,Surgical Intervention
+226,53,Stage III,Chemotherapy,Complementary Medicine
+227,55,Stage II,Surgical Intervention,Palliative Care
+228,73,Stage I,Surgical Intervention,Palliative Care
+229,57,Stage IV,Palliative Care,Surgical Intervention
+230,45,Stage III,Radiation Therapy,Surgical Intervention
+231,75,Stage II,Surgical Intervention,Palliative Care
+232,80,Stage III,Radiation Therapy,Palliative Care
+233,62,Stage III,Chemotherapy,Complementary Medicine
+234,76,Stage III,Complementary Medicine,Palliative Care
+235,71,Stage II,Surgical Intervention,Complementary Medicine
+236,61,Stage III,Chemotherapy,Palliative Care
+237,78,Stage III,Chemotherapy,Complementary Medicine
+238,72,Stage I,Surgical Intervention,Palliative Care
+239,65,Stage I,Surgical Intervention,Palliative Care
+240,43,Stage III,Chemotherapy,Palliative Care
+241,54,Stage IV,Chemotherapy,Surgical Intervention
+242,69,Stage IV,Chemotherapy,Surgical Intervention
+243,65,Stage III,Chemotherapy,Surgical Intervention
+244,45,Stage II,Palliative Care,Palliative Care
+245,57,Stage III,Palliative Care,Surgical Intervention
+246,76,Stage I,Surgical Intervention,Palliative Care
+247,42,Stage I,Surgical Intervention,Complementary Medicine
+248,46,Stage I,Surgical Intervention,Palliative Care
+249,48,Stage IV,Chemotherapy,Surgical Intervention
+250,53,Stage II,Surgical Intervention,Palliative Care
+251,61,Stage I,Surgical Intervention,Palliative Care
+252,79,Stage IV,Radiation Therapy,Surgical Intervention
+253,49,Stage III,Radiation Therapy,Surgical Intervention
+254,60,Stage II,Surgical Intervention,Complementary Medicine
+255,76,Stage IV,Palliative Care,Surgical Intervention
+256,42,Stage II,Surgical Intervention,Palliative Care
+257,59,Stage I,Surgical Intervention,Palliative Care
+258,80,Stage I,Surgical Intervention,Complementary Medicine
+259,79,Stage III,Chemotherapy,Palliative Care
+260,69,Stage III,Chemotherapy,Palliative Care
+261,51,Stage III,Chemotherapy,Palliative Care
+262,61,Stage II,Surgical Intervention,Palliative Care
+263,71,Stage I,Surgical Intervention,Palliative Care
+264,74,Stage III,Radiation Therapy,Palliative Care
+265,79,Stage III,Chemotherapy,Palliative Care
+266,42,Stage I,Surgical Intervention,Palliative Care
+267,46,Stage I,Surgical Intervention,Palliative Care
+268,71,Stage III,Chemotherapy,Complementary Medicine
+269,58,Stage I,Palliative Care,Palliative Care
+270,46,Stage I,Surgical Intervention,Palliative Care
+271,51,Stage III,Chemotherapy,Surgical Intervention
+272,41,Stage II,Surgical Intervention,Palliative Care
+273,42,Stage IV,Chemotherapy,Surgical Intervention
+274,74,Stage III,Radiation Therapy,Palliative Care
+275,41,Stage I,Surgical Intervention,Palliative Care
+276,68,Stage I,Surgical Intervention,Palliative Care
+277,76,Stage III,Radiation Therapy,Complementary Medicine
+278,78,Stage IV,Chemotherapy,Surgical Intervention
+279,58,Stage II,Surgical Intervention,Palliative Care
+280,53,Stage IV,Palliative Care,Surgical Intervention
+281,70,Stage II,Surgical Intervention,Palliative Care
+282,78,Stage I,Surgical Intervention,Palliative Care
+283,40,Stage II,Surgical Intervention,Complementary Medicine
+284,63,Stage II,Surgical Intervention,Palliative Care
+285,52,Stage II,Surgical Intervention,Palliative Care
+286,62,Stage IV,Chemotherapy,Surgical Intervention
+287,79,Stage IV,Palliative Care,Surgical Intervention
+288,44,Stage I,Surgical Intervention,Palliative Care
+289,74,Stage II,Chemotherapy,Palliative Care
+290,51,Stage III,Chemotherapy,Palliative Care
+291,59,Stage I,Surgical Intervention,Palliative Care
+292,56,Stage II,Surgical Intervention,Palliative Care
+293,66,Stage IV,Palliative Care,Surgical Intervention
+294,57,Stage III,Radiation Therapy,Complementary Medicine
+295,72,Stage II,Surgical Intervention,Complementary Medicine
+296,58,Stage I,Surgical Intervention,Palliative Care
+297,56,Stage II,Surgical Intervention,Palliative Care
+298,59,Stage III,Chemotherapy,Palliative Care
+299,68,Stage II,Surgical Intervention,Palliative Care
+300,64,Stage II,Chemotherapy,Palliative Care
+301,73,Stage III,Chemotherapy,Palliative Care
+302,44,Stage II,Chemotherapy,Palliative Care
+303,46,Stage II,Chemotherapy,Complementary Medicine
+304,68,Stage I,Surgical Intervention,Palliative Care
+305,73,Stage I,Surgical Intervention,Complementary Medicine
+306,58,Stage I,Surgical Intervention,Palliative Care
+307,56,Stage I,Surgical Intervention,Palliative Care
+308,61,Stage IV,Palliative Care,Surgical Intervention
+309,44,Stage I,Surgical Intervention,Palliative Care
+310,77,Stage II,Surgical Intervention,Palliative Care
+311,78,Stage II,Surgical Intervention,Palliative Care
+312,77,Stage IV,Chemotherapy,Surgical Intervention
+313,64,Stage IV,Chemotherapy,Surgical Intervention
+314,61,Stage III,Radiation Therapy,Complementary Medicine
+315,57,Stage I,Palliative Care,Complementary Medicine
+316,59,Stage II,Chemotherapy,Palliative Care
+317,57,Stage II,Surgical Intervention,Palliative Care
+318,68,Stage II,Surgical Intervention,Palliative Care
+319,79,Stage I,Surgical Intervention,Palliative Care
+320,52,Stage II,Surgical Intervention,Palliative Care
+321,47,Stage III,Palliative Care,Complementary Medicine
+322,48,Stage IV,Chemotherapy,Surgical Intervention
+323,45,Stage II,Chemotherapy,Palliative Care
+324,45,Stage I,Surgical Intervention,Palliative Care
+325,45,Stage I,Surgical Intervention,Palliative Care
+326,51,Stage IV,Palliative Care,Surgical Intervention
+327,62,Stage III,Radiation Therapy,Palliative Care
+328,65,Stage III,Radiation Therapy,Complementary Medicine
+329,77,Stage II,Chemotherapy,Palliative Care
+330,40,Stage IV,Complementary Medicine,Surgical Intervention
+331,72,Stage IV,Radiation Therapy,Surgical Intervention
+332,57,Stage I,Surgical Intervention,Palliative Care
+333,71,Stage II,Chemotherapy,Palliative Care
+334,50,Stage I,Surgical Intervention,Palliative Care
+335,53,Stage II,Surgical Intervention,Palliative Care
+336,71,Stage III,Radiation Therapy,Surgical Intervention
+337,70,Stage III,Chemotherapy,Complementary Medicine
+338,68,Stage IV,Chemotherapy,Surgical Intervention
+339,48,Stage I,Surgical Intervention,Palliative Care
+340,74,Stage III,Chemotherapy,Palliative Care
+341,53,Stage III,Radiation Therapy,Complementary Medicine
+342,79,Stage II,Palliative Care,Palliative Care
+343,54,Stage I,Surgical Intervention,Palliative Care
+344,61,Stage I,Surgical Intervention,Palliative Care
+345,48,Stage II,Surgical Intervention,Palliative Care
+346,74,Stage III,Chemotherapy,Palliative Care
+347,71,Stage I,Surgical Intervention,Palliative Care
+348,71,Stage II,Surgical Intervention,Palliative Care
+349,45,Stage I,Surgical Intervention,Palliative Care
+350,76,Stage IV,Chemotherapy,Surgical Intervention
+351,47,Stage III,Chemotherapy,Complementary Medicine
+352,74,Stage II,Radiation Therapy,Palliative Care
+353,45,Stage II,Surgical Intervention,Palliative Care
+354,62,Stage III,Chemotherapy,Complementary Medicine
+355,53,Stage II,Surgical Intervention,Palliative Care
+356,77,Stage II,Chemotherapy,Palliative Care
+357,48,Stage II,Surgical Intervention,Palliative Care
+358,50,Stage IV,Radiation Therapy,Surgical Intervention
+359,70,Stage III,Chemotherapy,Complementary Medicine
+360,73,Stage IV,Complementary Medicine,Surgical Intervention
+361,70,Stage I,Surgical Intervention,Palliative Care
+362,54,Stage II,Surgical Intervention,Palliative Care
+363,77,Stage III,Palliative Care,Palliative Care
+364,77,Stage II,Chemotherapy,Palliative Care
+365,58,Stage III,Chemotherapy,Palliative Care
+366,50,Stage IV,Chemotherapy,Surgical Intervention
+367,60,Stage III,Chemotherapy,Complementary Medicine
+368,78,Stage II,Surgical Intervention,Palliative Care
+369,53,Stage IV,Palliative Care,Surgical Intervention
+370,52,Stage IV,Chemotherapy,Surgical Intervention
+371,43,Stage I,Surgical Intervention,Palliative Care
+372,50,Stage III,Chemotherapy,Palliative Care
+373,54,Stage III,Radiation Therapy,Complementary Medicine
+374,66,Stage IV,Chemotherapy,Surgical Intervention
+375,47,Stage I,Surgical Intervention,Radiation Therapy
+376,67,Stage IV,Radiation Therapy,Surgical Intervention
+377,66,Stage I,Palliative Care,Complementary Medicine
+378,59,Stage IV,Complementary Medicine,Surgical Intervention
+379,44,Stage II,Complementary Medicine,Palliative Care
+380,80,Stage I,Surgical Intervention,Palliative Care
+381,77,Stage I,Surgical Intervention,Palliative Care
+382,42,Stage I,Surgical Intervention,Palliative Care
+383,68,Stage II,Chemotherapy,Palliative Care
+384,44,Stage IV,Palliative Care,Surgical Intervention
+385,46,Stage IV,Chemotherapy,Surgical Intervention
+386,52,Stage II,Chemotherapy,Palliative Care
+387,76,Stage I,Surgical Intervention,Palliative Care
+388,65,Stage IV,Palliative Care,Surgical Intervention
+389,43,Stage II,Surgical Intervention,Palliative Care
+390,74,Stage I,Surgical Intervention,Complementary Medicine
+391,76,Stage II,Surgical Intervention,Palliative Care
+392,78,Stage II,Surgical Intervention,Palliative Care
+393,73,Stage II,Palliative Care,Palliative Care
+394,43,Stage II,Surgical Intervention,Palliative Care
+395,47,Stage II,Surgical Intervention,Palliative Care
+396,56,Stage II,Surgical Intervention,Palliative Care
+397,40,Stage III,Chemotherapy,Palliative Care
+398,72,Stage III,Chemotherapy,Complementary Medicine
+399,48,Stage III,Chemotherapy,Surgical Intervention
+400,50,Stage I,Palliative Care,Palliative Care
+401,42,Stage III,Chemotherapy,Surgical Intervention
+402,73,Stage I,Chemotherapy,Complementary Medicine
+403,78,Stage III,Radiation Therapy,Palliative Care
+404,47,Stage IV,Chemotherapy,Surgical Intervention
+405,68,Stage III,Radiation Therapy,Palliative Care
+406,54,Stage III,Chemotherapy,Palliative Care
+407,61,Stage II,Surgical Intervention,Palliative Care
+408,63,Stage IV,Chemotherapy,Surgical Intervention
+409,75,Stage III,Chemotherapy,Complementary Medicine
+410,53,Stage I,Surgical Intervention,Palliative Care
+411,75,Stage II,Surgical Intervention,Palliative Care
+412,79,Stage II,Radiation Therapy,Palliative Care
+413,59,Stage III,Chemotherapy,Palliative Care
+414,63,Stage III,Chemotherapy,Palliative Care
+415,77,Stage I,Surgical Intervention,Palliative Care
+416,69,Stage II,Chemotherapy,Palliative Care
+417,69,Stage IV,Chemotherapy,Surgical Intervention
+418,78,Stage I,Surgical Intervention,Palliative Care
+419,75,Stage II,Radiation Therapy,Palliative Care
+420,44,Stage II,Surgical Intervention,Palliative Care
+421,54,Stage II,Surgical Intervention,Palliative Care
+422,46,Stage III,Chemotherapy,Palliative Care
+423,76,Stage I,Surgical Intervention,Palliative Care
+424,44,Stage I,Surgical Intervention,Palliative Care
+425,76,Stage III,Chemotherapy,Palliative Care
+426,49,Stage I,Surgical Intervention,Complementary Medicine
+427,51,Stage IV,Chemotherapy,Surgical Intervention
+428,78,Stage III,Chemotherapy,Palliative Care
+429,51,Stage III,Chemotherapy,Complementary Medicine
+430,58,Stage IV,Palliative Care,Surgical Intervention
+431,70,Stage IV,Chemotherapy,Surgical Intervention
+432,64,Stage IV,Chemotherapy,Surgical Intervention
+433,67,Stage II,Chemotherapy,Palliative Care
+434,40,Stage I,Surgical Intervention,Palliative Care
+435,61,Stage III,Chemotherapy,Complementary Medicine
+436,42,Stage I,Surgical Intervention,Palliative Care
+437,60,Stage IV,Chemotherapy,Surgical Intervention
+438,66,Stage IV,Chemotherapy,Surgical Intervention
+439,74,Stage II,Complementary Medicine,Palliative Care
+440,51,Stage IV,Chemotherapy,Surgical Intervention
+441,63,Stage I,Chemotherapy,Palliative Care
+442,55,Stage III,Chemotherapy,Complementary Medicine
+443,64,Stage II,Surgical Intervention,Palliative Care
+444,80,Stage IV,Chemotherapy,Surgical Intervention
+445,67,Stage II,Surgical Intervention,Palliative Care
+446,62,Stage III,Chemotherapy,Palliative Care
+447,79,Stage III,Radiation Therapy,Palliative Care
+448,58,Stage I,Surgical Intervention,Palliative Care
+449,52,Stage IV,Chemotherapy,Surgical Intervention
+450,78,Stage IV,Chemotherapy,Surgical Intervention
+451,67,Stage IV,Chemotherapy,Surgical Intervention
+452,48,Stage II,Surgical Intervention,Palliative Care
+453,48,Stage I,Surgical Intervention,Palliative Care
+454,73,Stage III,Chemotherapy,Palliative Care
+455,63,Stage II,Surgical Intervention,Palliative Care
+456,59,Stage I,Surgical Intervention,Palliative Care
+457,73,Stage III,Chemotherapy,Complementary Medicine
+458,53,Stage IV,Chemotherapy,Surgical Intervention
+459,54,Stage III,Chemotherapy,Surgical Intervention
+460,49,Stage I,Surgical Intervention,Palliative Care
+461,42,Stage I,Surgical Intervention,Palliative Care
+462,53,Stage I,Surgical Intervention,Palliative Care
+463,75,Stage IV,Chemotherapy,Surgical Intervention
+464,46,Stage II,Surgical Intervention,Complementary Medicine
+465,48,Stage III,Radiation Therapy,Palliative Care
+466,59,Stage III,Radiation Therapy,Surgical Intervention
+467,47,Stage IV,Chemotherapy,Surgical Intervention
+468,50,Stage III,Chemotherapy,Palliative Care
+469,42,Stage II,Chemotherapy,Palliative Care
+470,59,Stage I,Complementary Medicine,Palliative Care
+471,66,Stage III,Chemotherapy,Palliative Care
+472,72,Stage IV,Palliative Care,Surgical Intervention
+473,46,Stage I,Surgical Intervention,Palliative Care
+474,76,Stage III,Chemotherapy,Complementary Medicine
+475,67,Stage I,Radiation Therapy,Palliative Care
+476,41,Stage IV,Chemotherapy,Surgical Intervention
+477,51,Stage III,Radiation Therapy,Palliative Care
+478,77,Stage III,Complementary Medicine,Surgical Intervention
+479,50,Stage I,Surgical Intervention,Palliative Care
+480,69,Stage III,Chemotherapy,Surgical Intervention
+481,70,Stage I,Surgical Intervention,Palliative Care
+482,74,Stage I,Surgical Intervention,Palliative Care
+483,53,Stage II,Surgical Intervention,Palliative Care
+484,47,Stage III,Chemotherapy,Palliative Care
+485,51,Stage IV,Chemotherapy,Surgical Intervention
+486,71,Stage IV,Palliative Care,Surgical Intervention
+487,71,Stage II,Surgical Intervention,Palliative Care
+488,67,Stage II,Surgical Intervention,Palliative Care
+489,59,Stage III,Chemotherapy,Palliative Care
+490,59,Stage I,Palliative Care,Palliative Care
+491,44,Stage I,Surgical Intervention,Palliative Care
+492,57,Stage III,Chemotherapy,Surgical Intervention
+493,69,Stage IV,Complementary Medicine,Surgical Intervention
+494,54,Stage IV,Palliative Care,Surgical Intervention
+495,80,Stage II,Palliative Care,Palliative Care
+496,55,Stage II,Surgical Intervention,Palliative Care
+497,77,Stage IV,Chemotherapy,Surgical Intervention
+498,52,Stage II,Surgical Intervention,Palliative Care
+499,43,Stage IV,Chemotherapy,Surgical Intervention
+500,56,Stage I,Surgical Intervention,Palliative Care
+501,53,Stage III,Chemotherapy,Complementary Medicine
+502,51,Stage I,Surgical Intervention,Palliative Care
+503,44,Stage III,Radiation Therapy,Palliative Care
+504,72,Stage II,Surgical Intervention,Palliative Care
+505,52,Stage I,Surgical Intervention,Palliative Care
+506,49,Stage IV,Palliative Care,Surgical Intervention
+507,80,Stage IV,Chemotherapy,Surgical Intervention
+508,65,Stage IV,Chemotherapy,Surgical Intervention
+509,51,Stage III,Chemotherapy,Complementary Medicine
+510,71,Stage I,Surgical Intervention,Palliative Care
+511,51,Stage II,Surgical Intervention,Palliative Care
+512,51,Stage III,Chemotherapy,Palliative Care
+513,44,Stage I,Surgical Intervention,Palliative Care
+514,77,Stage II,Surgical Intervention,Palliative Care
+515,61,Stage IV,Radiation Therapy,Surgical Intervention
+516,68,Stage III,Complementary Medicine,Surgical Intervention
+517,50,Stage II,Surgical Intervention,Palliative Care
+518,66,Stage II,Surgical Intervention,Palliative Care
+519,80,Stage II,Surgical Intervention,Palliative Care
+520,60,Stage II,Surgical Intervention,Palliative Care
+521,43,Stage I,Chemotherapy,Palliative Care
+522,48,Stage II,Surgical Intervention,Palliative Care
+523,49,Stage II,Chemotherapy,Palliative Care
+524,79,Stage IV,Chemotherapy,Surgical Intervention
+525,55,Stage I,Surgical Intervention,Palliative Care
+526,70,Stage II,Surgical Intervention,Palliative Care
+527,40,Stage I,Complementary Medicine,Palliative Care
+528,67,Stage II,Chemotherapy,Complementary Medicine
+529,69,Stage I,Surgical Intervention,Palliative Care
+530,57,Stage III,Chemotherapy,Complementary Medicine
+531,74,Stage III,Radiation Therapy,Complementary Medicine
+532,52,Stage III,Chemotherapy,Complementary Medicine
+533,73,Stage IV,Chemotherapy,Surgical Intervention
+534,57,Stage III,Chemotherapy,Complementary Medicine
+535,76,Stage I,Surgical Intervention,Palliative Care
+536,66,Stage II,Surgical Intervention,Palliative Care
+537,73,Stage I,Surgical Intervention,Palliative Care
+538,75,Stage I,Surgical Intervention,Palliative Care
+539,61,Stage I,Surgical Intervention,Palliative Care
+540,73,Stage III,Radiation Therapy,Palliative Care
+541,48,Stage II,Chemotherapy,Palliative Care
+542,41,Stage III,Chemotherapy,Palliative Care
+543,50,Stage III,Complementary Medicine,Surgical Intervention
+544,73,Stage II,Surgical Intervention,Palliative Care
+545,69,Stage III,Chemotherapy,Surgical Intervention
+546,40,Stage II,Surgical Intervention,Palliative Care
+547,61,Stage IV,Chemotherapy,Surgical Intervention
+548,69,Stage II,Surgical Intervention,Palliative Care
+549,72,Stage IV,Radiation Therapy,Surgical Intervention
+550,52,Stage I,Surgical Intervention,Palliative Care
+551,79,Stage I,Surgical Intervention,Palliative Care
+552,75,Stage III,Radiation Therapy,Palliative Care
+553,56,Stage IV,Chemotherapy,Surgical Intervention
+554,62,Stage I,Surgical Intervention,Palliative Care
+555,54,Stage III,Chemotherapy,Complementary Medicine
+556,45,Stage I,Surgical Intervention,Complementary Medicine
+557,77,Stage I,Surgical Intervention,Palliative Care
+558,50,Stage I,Surgical Intervention,Palliative Care
+559,53,Stage II,Chemotherapy,Palliative Care
+560,68,Stage IV,Chemotherapy,Surgical Intervention
+561,50,Stage II,Surgical Intervention,Palliative Care
+562,50,Stage I,Chemotherapy,Palliative Care
+563,48,Stage IV,Chemotherapy,Surgical Intervention
+564,69,Stage III,Chemotherapy,Surgical Intervention
+565,47,Stage III,Chemotherapy,Palliative Care
+566,56,Stage I,Surgical Intervention,Palliative Care
+567,54,Stage I,Surgical Intervention,Palliative Care
+568,61,Stage III,Chemotherapy,Palliative Care
+569,57,Stage II,Surgical Intervention,Palliative Care
+570,55,Stage II,Surgical Intervention,Palliative Care
+571,64,Stage IV,Chemotherapy,Surgical Intervention
+572,78,Stage III,Chemotherapy,Surgical Intervention
+573,46,Stage I,Surgical Intervention,Palliative Care
+574,54,Stage IV,Chemotherapy,Surgical Intervention
+575,41,Stage I,Surgical Intervention,Palliative Care
+576,79,Stage II,Surgical Intervention,Palliative Care
+577,47,Stage I,Surgical Intervention,Palliative Care
+578,65,Stage I,Surgical Intervention,Complementary Medicine
+579,58,Stage IV,Chemotherapy,Surgical Intervention
+580,53,Stage IV,Palliative Care,Surgical Intervention
+581,52,Stage IV,Radiation Therapy,Surgical Intervention
+582,69,Stage IV,Radiation Therapy,Surgical Intervention
+583,51,Stage II,Chemotherapy,Palliative Care
+584,73,Stage II,Chemotherapy,Palliative Care
+585,62,Stage III,Palliative Care,Complementary Medicine
+586,70,Stage III,Radiation Therapy,Complementary Medicine
+587,74,Stage IV,Chemotherapy,Surgical Intervention
+588,63,Stage I,Surgical Intervention,Palliative Care
+589,70,Stage I,Surgical Intervention,Palliative Care
+590,40,Stage II,Surgical Intervention,Palliative Care
+591,75,Stage I,Complementary Medicine,Palliative Care
+592,57,Stage IV,Palliative Care,Surgical Intervention
+593,63,Stage III,Chemotherapy,Palliative Care
+594,42,Stage II,Chemotherapy,Palliative Care
+595,45,Stage I,Surgical Intervention,Palliative Care
+596,54,Stage IV,Chemotherapy,Surgical Intervention
+597,62,Stage IV,Chemotherapy,Surgical Intervention
+598,49,Stage I,Surgical Intervention,Palliative Care
+599,68,Stage II,Surgical Intervention,Palliative Care
+600,50,Stage III,Chemotherapy,Palliative Care
+601,72,Stage II,Radiation Therapy,Complementary Medicine
+602,70,Stage I,Surgical Intervention,Palliative Care
+603,40,Stage I,Surgical Intervention,Palliative Care
+604,70,Stage IV,Palliative Care,Surgical Intervention
+605,66,Stage II,Chemotherapy,Palliative Care
+606,73,Stage II,Complementary Medicine,Palliative Care
+607,46,Stage IV,Palliative Care,Surgical Intervention
+608,79,Stage II,Surgical Intervention,Palliative Care
+609,40,Stage I,Surgical Intervention,Palliative Care
+610,80,Stage I,Surgical Intervention,Palliative Care
+611,71,Stage II,Surgical Intervention,Palliative Care
+612,53,Stage I,Surgical Intervention,Palliative Care
+613,71,Stage II,Radiation Therapy,Palliative Care
+614,62,Stage I,Surgical Intervention,Palliative Care
+615,41,Stage I,Surgical Intervention,Palliative Care
+616,70,Stage IV,Palliative Care,Surgical Intervention
+617,77,Stage I,Surgical Intervention,Palliative Care
+618,61,Stage IV,Chemotherapy,Surgical Intervention
+619,75,Stage III,Chemotherapy,Palliative Care
+620,73,Stage III,Chemotherapy,Palliative Care
+621,49,Stage III,Chemotherapy,Palliative Care
+622,48,Stage III,Chemotherapy,Palliative Care
+623,68,Stage IV,Chemotherapy,Surgical Intervention
+624,55,Stage I,Surgical Intervention,Palliative Care
+625,51,Stage IV,Chemotherapy,Surgical Intervention
+626,47,Stage IV,Chemotherapy,Surgical Intervention
+627,74,Stage I,Surgical Intervention,Palliative Care
+628,54,Stage IV,Chemotherapy,Surgical Intervention
+629,61,Stage III,Chemotherapy,Palliative Care
+630,59,Stage III,Chemotherapy,Palliative Care
+631,61,Stage I,Surgical Intervention,Palliative Care
+632,40,Stage III,Radiation Therapy,Surgical Intervention
+633,52,Stage I,Surgical Intervention,Palliative Care
+634,68,Stage II,Surgical Intervention,Palliative Care
+635,54,Stage I,Surgical Intervention,Palliative Care
+636,68,Stage III,Complementary Medicine,Surgical Intervention
+637,65,Stage II,Surgical Intervention,Palliative Care
+638,54,Stage IV,Chemotherapy,Surgical Intervention
+639,47,Stage III,Complementary Medicine,Palliative Care
+640,52,Stage III,Radiation Therapy,Palliative Care
+641,51,Stage I,Surgical Intervention,Palliative Care
+642,63,Stage IV,Chemotherapy,Surgical Intervention
+643,55,Stage II,Surgical Intervention,Palliative Care
+644,49,Stage I,Surgical Intervention,Palliative Care
+645,50,Stage II,Chemotherapy,Palliative Care
+646,48,Stage III,Chemotherapy,Surgical Intervention
+647,41,Stage IV,Complementary Medicine,Surgical Intervention
+648,42,Stage II,Surgical Intervention,Palliative Care
+649,72,Stage I,Surgical Intervention,Palliative Care
+650,54,Stage III,Palliative Care,Palliative Care
+651,43,Stage I,Surgical Intervention,Palliative Care
+652,79,Stage IV,Chemotherapy,Surgical Intervention
+653,52,Stage III,Chemotherapy,Surgical Intervention
+654,75,Stage III,Chemotherapy,Palliative Care
+655,54,Stage II,Chemotherapy,Palliative Care
+656,70,Stage IV,Palliative Care,Surgical Intervention
+657,53,Stage I,Surgical Intervention,Palliative Care
+658,70,Stage IV,Chemotherapy,Surgical Intervention
+659,80,Stage I,Chemotherapy,Radiation Therapy
+660,40,Stage III,Chemotherapy,Palliative Care
+661,58,Stage I,Surgical Intervention,Palliative Care
+662,79,Stage I,Surgical Intervention,Palliative Care
+663,50,Stage III,Chemotherapy,Palliative Care
+664,64,Stage II,Surgical Intervention,Palliative Care
+665,80,Stage III,Radiation Therapy,Palliative Care
+666,60,Stage I,Surgical Intervention,Palliative Care
+667,69,Stage I,Surgical Intervention,Palliative Care
+668,67,Stage I,Surgical Intervention,Palliative Care
+669,75,Stage IV,Chemotherapy,Surgical Intervention
+670,61,Stage II,Chemotherapy,Palliative Care
+671,51,Stage IV,Palliative Care,Surgical Intervention
+672,48,Stage IV,Complementary Medicine,Surgical Intervention
+673,42,Stage I,Surgical Intervention,Palliative Care
+674,49,Stage IV,Palliative Care,Surgical Intervention
+675,50,Stage III,Palliative Care,Palliative Care
+676,54,Stage I,Surgical Intervention,Complementary Medicine
+677,69,Stage II,Surgical Intervention,Palliative Care
+678,74,Stage I,Surgical Intervention,Palliative Care
+679,65,Stage I,Surgical Intervention,Palliative Care
+680,77,Stage III,Complementary Medicine,Palliative Care
+681,79,Stage IV,Radiation Therapy,Surgical Intervention
+682,62,Stage II,Surgical Intervention,Palliative Care
+683,72,Stage I,Surgical Intervention,Palliative Care
+684,63,Stage III,Radiation Therapy,Surgical Intervention
+685,50,Stage II,Chemotherapy,Palliative Care
+686,51,Stage II,Surgical Intervention,Palliative Care
+687,52,Stage III,Chemotherapy,Palliative Care
+688,61,Stage II,Surgical Intervention,Palliative Care
+689,52,Stage I,Surgical Intervention,Palliative Care
+690,49,Stage III,Complementary Medicine,Palliative Care
+691,53,Stage IV,Chemotherapy,Surgical Intervention
+692,72,Stage III,Chemotherapy,Palliative Care
+693,74,Stage III,Chemotherapy,Surgical Intervention
+694,63,Stage I,Surgical Intervention,Palliative Care
+695,67,Stage III,Complementary Medicine,Palliative Care
+696,56,Stage II,Complementary Medicine,Palliative Care
+697,59,Stage I,Surgical Intervention,Palliative Care
+698,77,Stage III,Radiation Therapy,Palliative Care
+699,67,Stage IV,Chemotherapy,Surgical Intervention
+700,77,Stage III,Chemotherapy,Complementary Medicine
+701,66,Stage II,Surgical Intervention,Palliative Care
+702,46,Stage II,Surgical Intervention,Complementary Medicine
+703,64,Stage I,Radiation Therapy,Palliative Care
+704,74,Stage III,Complementary Medicine,Palliative Care
+705,43,Stage IV,Palliative Care,Surgical Intervention
+706,58,Stage I,Surgical Intervention,Palliative Care
+707,73,Stage II,Palliative Care,Palliative Care
+708,48,Stage IV,Radiation Therapy,Surgical Intervention
+709,61,Stage III,Radiation Therapy,Surgical Intervention
+710,61,Stage I,Surgical Intervention,Palliative Care
+711,48,Stage III,Chemotherapy,Palliative Care
+712,60,Stage I,Surgical Intervention,Palliative Care
+713,55,Stage II,Surgical Intervention,Palliative Care
+714,69,Stage IV,Chemotherapy,Surgical Intervention
+715,49,Stage III,Chemotherapy,Complementary Medicine
+716,80,Stage I,Surgical Intervention,Palliative Care
+717,46,Stage I,Surgical Intervention,Palliative Care
+718,65,Stage IV,Radiation Therapy,Surgical Intervention
+719,46,Stage I,Palliative Care,Palliative Care
+720,72,Stage III,Chemotherapy,Palliative Care
+721,50,Stage I,Surgical Intervention,Complementary Medicine
+722,77,Stage II,Chemotherapy,Palliative Care
+723,45,Stage I,Palliative Care,Palliative Care
+724,41,Stage IV,Palliative Care,Surgical Intervention
+725,59,Stage IV,Chemotherapy,Surgical Intervention
+726,56,Stage I,Surgical Intervention,Palliative Care
+727,47,Stage IV,Chemotherapy,Surgical Intervention
+728,75,Stage II,Surgical Intervention,Palliative Care
+729,69,Stage III,Chemotherapy,Palliative Care
+730,43,Stage III,Chemotherapy,Palliative Care
+731,76,Stage II,Surgical Intervention,Palliative Care
+732,67,Stage II,Surgical Intervention,Palliative Care
+733,69,Stage III,Palliative Care,Palliative Care
+734,41,Stage II,Surgical Intervention,Palliative Care
+735,79,Stage IV,Chemotherapy,Surgical Intervention
+736,44,Stage IV,Chemotherapy,Surgical Intervention
+737,78,Stage IV,Radiation Therapy,Surgical Intervention
+738,51,Stage III,Radiation Therapy,Palliative Care
+739,61,Stage II,Complementary Medicine,Palliative Care
+740,45,Stage IV,Chemotherapy,Surgical Intervention
+741,64,Stage IV,Chemotherapy,Surgical Intervention
+742,61,Stage III,Chemotherapy,Palliative Care
+743,67,Stage I,Surgical Intervention,Complementary Medicine
+744,66,Stage II,Surgical Intervention,Palliative Care
+745,75,Stage I,Surgical Intervention,Palliative Care
+746,51,Stage III,Chemotherapy,Complementary Medicine
+747,44,Stage I,Complementary Medicine,Palliative Care
+748,65,Stage III,Chemotherapy,Palliative Care
+749,54,Stage III,Complementary Medicine,Palliative Care
+750,78,Stage III,Palliative Care,Palliative Care
+751,70,Stage III,Palliative Care,Complementary Medicine
+752,52,Stage II,Surgical Intervention,Palliative Care
+753,79,Stage IV,Complementary Medicine,Surgical Intervention
+754,48,Stage II,Surgical Intervention,Palliative Care
+755,61,Stage III,Chemotherapy,Palliative Care
+756,73,Stage II,Surgical Intervention,Palliative Care
+757,61,Stage I,Surgical Intervention,Palliative Care
+758,70,Stage I,Surgical Intervention,Complementary Medicine
+759,57,Stage IV,Radiation Therapy,Surgical Intervention
+760,40,Stage IV,Complementary Medicine,Surgical Intervention
+761,47,Stage I,Surgical Intervention,Palliative Care
+762,43,Stage II,Chemotherapy,Palliative Care
+763,61,Stage IV,Palliative Care,Surgical Intervention
+764,66,Stage IV,Chemotherapy,Surgical Intervention
+765,66,Stage I,Surgical Intervention,Palliative Care
+766,60,Stage I,Palliative Care,Palliative Care
+767,47,Stage III,Radiation Therapy,Palliative Care
+768,64,Stage I,Surgical Intervention,Palliative Care
+769,71,Stage II,Chemotherapy,Palliative Care
+770,48,Stage I,Surgical Intervention,Palliative Care
+771,47,Stage I,Surgical Intervention,Palliative Care
+772,40,Stage II,Surgical Intervention,Palliative Care
+773,57,Stage I,Surgical Intervention,Palliative Care
+774,64,Stage III,Radiation Therapy,Palliative Care
+775,73,Stage III,Chemotherapy,Surgical Intervention
+776,79,Stage I,Palliative Care,Palliative Care
+777,45,Stage III,Chemotherapy,Palliative Care
+778,44,Stage II,Surgical Intervention,Palliative Care
+779,45,Stage II,Surgical Intervention,Palliative Care
+780,46,Stage I,Complementary Medicine,Palliative Care
+781,48,Stage II,Chemotherapy,Complementary Medicine
+782,77,Stage I,Surgical Intervention,Palliative Care
+783,67,Stage II,Surgical Intervention,Palliative Care
+784,56,Stage IV,Radiation Therapy,Surgical Intervention
+785,46,Stage I,Surgical Intervention,Complementary Medicine
+786,71,Stage II,Surgical Intervention,Palliative Care
+787,55,Stage IV,Radiation Therapy,Surgical Intervention
+788,50,Stage II,Complementary Medicine,Palliative Care
+789,75,Stage IV,Palliative Care,Surgical Intervention
+790,77,Stage II,Complementary Medicine,Palliative Care
+791,77,Stage III,Radiation Therapy,Palliative Care
+792,63,Stage III,Palliative Care,Surgical Intervention
+793,57,Stage III,Radiation Therapy,Complementary Medicine
+794,66,Stage IV,Chemotherapy,Surgical Intervention
+795,55,Stage IV,Palliative Care,Surgical Intervention
+796,60,Stage IV,Chemotherapy,Surgical Intervention
+797,71,Stage III,Chemotherapy,Palliative Care
+798,48,Stage IV,Chemotherapy,Surgical Intervention
+799,71,Stage III,Complementary Medicine,Surgical Intervention
+800,80,Stage III,Radiation Therapy,Palliative Care
+801,58,Stage III,Chemotherapy,Palliative Care
+802,79,Stage III,Radiation Therapy,Complementary Medicine
+803,56,Stage II,Surgical Intervention,Palliative Care
+804,63,Stage I,Chemotherapy,Palliative Care
+805,74,Stage I,Surgical Intervention,Palliative Care
+806,71,Stage I,Surgical Intervention,Palliative Care
+807,42,Stage I,Surgical Intervention,Palliative Care
+808,47,Stage III,Chemotherapy,Surgical Intervention
+809,57,Stage I,Surgical Intervention,Palliative Care
+810,47,Stage II,Surgical Intervention,Palliative Care
+811,43,Stage IV,Chemotherapy,Surgical Intervention
+812,75,Stage IV,Chemotherapy,Surgical Intervention
+813,73,Stage II,Surgical Intervention,Palliative Care
+814,48,Stage II,Surgical Intervention,Palliative Care
+815,53,Stage I,Surgical Intervention,Radiation Therapy
+816,51,Stage I,Surgical Intervention,Palliative Care
+817,56,Stage I,Surgical Intervention,Palliative Care
+818,41,Stage II,Palliative Care,Palliative Care
+819,53,Stage IV,Palliative Care,Surgical Intervention
+820,55,Stage II,Surgical Intervention,Palliative Care
+821,42,Stage III,Chemotherapy,Palliative Care
+822,55,Stage III,Palliative Care,Palliative Care
+823,66,Stage IV,Palliative Care,Surgical Intervention
+824,74,Stage III,Palliative Care,Palliative Care
+825,43,Stage II,Palliative Care,Palliative Care
+826,51,Stage III,Complementary Medicine,Surgical Intervention
+827,54,Stage II,Surgical Intervention,Palliative Care
+828,80,Stage II,Surgical Intervention,Palliative Care
+829,58,Stage III,Chemotherapy,Palliative Care
+830,73,Stage II,Surgical Intervention,Palliative Care
+831,74,Stage IV,Complementary Medicine,Surgical Intervention
+832,54,Stage II,Chemotherapy,Palliative Care
+833,45,Stage II,Surgical Intervention,Palliative Care
+834,41,Stage IV,Radiation Therapy,Surgical Intervention
+835,62,Stage III,Chemotherapy,Palliative Care
+836,77,Stage II,Surgical Intervention,Complementary Medicine
+837,74,Stage IV,Palliative Care,Surgical Intervention
+838,71,Stage IV,Radiation Therapy,Surgical Intervention
+839,44,Stage II,Chemotherapy,Palliative Care
+840,79,Stage II,Surgical Intervention,Palliative Care
+841,59,Stage IV,Radiation Therapy,Surgical Intervention
+842,42,Stage I,Surgical Intervention,Palliative Care
+843,48,Stage III,Chemotherapy,Palliative Care
+844,71,Stage II,Chemotherapy,Palliative Care
+845,52,Stage II,Surgical Intervention,Palliative Care
+846,61,Stage III,Chemotherapy,Complementary Medicine
+847,66,Stage II,Chemotherapy,Palliative Care
+848,58,Stage IV,Palliative Care,Surgical Intervention
+849,45,Stage IV,Palliative Care,Surgical Intervention
+850,41,Stage I,Surgical Intervention,Palliative Care
+851,57,Stage II,Surgical Intervention,Palliative Care
+852,75,Stage III,Chemotherapy,Surgical Intervention
+853,80,Stage III,Palliative Care,Palliative Care
+854,59,Stage III,Chemotherapy,Palliative Care
+855,51,Stage IV,Palliative Care,Surgical Intervention
+856,70,Stage III,Chemotherapy,Palliative Care
+857,77,Stage IV,Radiation Therapy,Surgical Intervention
+858,59,Stage III,Radiation Therapy,Palliative Care
+859,75,Stage III,Chemotherapy,Palliative Care
+860,54,Stage III,Radiation Therapy,Surgical Intervention
+861,78,Stage III,Chemotherapy,Palliative Care
+862,65,Stage IV,Chemotherapy,Surgical Intervention
+863,46,Stage IV,Palliative Care,Surgical Intervention
+864,79,Stage IV,Chemotherapy,Surgical Intervention
+865,78,Stage I,Complementary Medicine,Palliative Care
+866,50,Stage III,Radiation Therapy,Surgical Intervention
+867,59,Stage IV,Radiation Therapy,Surgical Intervention
+868,54,Stage I,Surgical Intervention,Complementary Medicine
+869,48,Stage I,Surgical Intervention,Palliative Care
+870,76,Stage II,Surgical Intervention,Palliative Care
+871,69,Stage I,Surgical Intervention,Palliative Care
+872,74,Stage I,Surgical Intervention,Palliative Care
+873,52,Stage III,Chemotherapy,Palliative Care
+874,66,Stage IV,Chemotherapy,Surgical Intervention
+875,61,Stage II,Chemotherapy,Palliative Care
+876,40,Stage I,Palliative Care,Palliative Care
+877,51,Stage I,Surgical Intervention,Palliative Care
+878,47,Stage I,Surgical Intervention,Complementary Medicine
+879,62,Stage IV,Complementary Medicine,Surgical Intervention
+880,55,Stage III,Palliative Care,Palliative Care
+881,52,Stage I,Complementary Medicine,Palliative Care
+882,69,Stage II,Surgical Intervention,Palliative Care
+883,68,Stage II,Complementary Medicine,Palliative Care
+884,79,Stage IV,Palliative Care,Surgical Intervention
+885,59,Stage III,Chemotherapy,Complementary Medicine
+886,58,Stage II,Surgical Intervention,Palliative Care
+887,41,Stage IV,Chemotherapy,Surgical Intervention
+888,42,Stage II,Surgical Intervention,Palliative Care
+889,60,Stage IV,Chemotherapy,Surgical Intervention
+890,57,Stage III,Chemotherapy,Palliative Care
+891,53,Stage I,Surgical Intervention,Complementary Medicine
+892,49,Stage III,Chemotherapy,Palliative Care
+893,54,Stage IV,Palliative Care,Surgical Intervention
+894,77,Stage III,Chemotherapy,Palliative Care
+895,43,Stage III,Chemotherapy,Palliative Care
+896,52,Stage II,Surgical Intervention,Palliative Care
+897,74,Stage I,Surgical Intervention,Palliative Care
+898,41,Stage IV,Chemotherapy,Surgical Intervention
+899,78,Stage II,Chemotherapy,Palliative Care
+900,59,Stage III,Chemotherapy,Palliative Care
+901,63,Stage II,Radiation Therapy,Palliative Care
+902,69,Stage III,Complementary Medicine,Palliative Care
+903,54,Stage I,Surgical Intervention,Palliative Care
+904,67,Stage I,Surgical Intervention,Palliative Care
+905,48,Stage I,Surgical Intervention,Palliative Care
+906,60,Stage I,Surgical Intervention,Palliative Care
+907,74,Stage III,Radiation Therapy,Palliative Care
+908,60,Stage II,Radiation Therapy,Palliative Care
+909,79,Stage IV,Chemotherapy,Surgical Intervention
+910,66,Stage III,Chemotherapy,Palliative Care
+911,51,Stage II,Surgical Intervention,Palliative Care
+912,61,Stage II,Surgical Intervention,Palliative Care
+913,65,Stage I,Surgical Intervention,Complementary Medicine
+914,60,Stage III,Radiation Therapy,Palliative Care
+915,57,Stage I,Surgical Intervention,Palliative Care
+916,52,Stage I,Surgical Intervention,Palliative Care
+917,45,Stage I,Surgical Intervention,Palliative Care
+918,51,Stage IV,Radiation Therapy,Surgical Intervention
+919,65,Stage I,Complementary Medicine,Palliative Care
+920,62,Stage III,Chemotherapy,Palliative Care
+921,66,Stage IV,Chemotherapy,Surgical Intervention
+922,55,Stage IV,Radiation Therapy,Surgical Intervention
+923,78,Stage IV,Radiation Therapy,Surgical Intervention
+924,51,Stage IV,Chemotherapy,Surgical Intervention
+925,57,Stage II,Surgical Intervention,Palliative Care
+926,65,Stage III,Chemotherapy,Palliative Care
+927,73,Stage II,Complementary Medicine,Palliative Care
+928,63,Stage I,Surgical Intervention,Palliative Care
+929,48,Stage IV,Chemotherapy,Surgical Intervention
+930,59,Stage IV,Complementary Medicine,Surgical Intervention
+931,50,Stage I,Surgical Intervention,Palliative Care
+932,75,Stage IV,Chemotherapy,Surgical Intervention
+933,72,Stage I,Surgical Intervention,Palliative Care
+934,75,Stage I,Surgical Intervention,Complementary Medicine
+935,52,Stage I,Surgical Intervention,Palliative Care
+936,49,Stage I,Surgical Intervention,Palliative Care
+937,54,Stage IV,Palliative Care,Surgical Intervention
+938,65,Stage I,Surgical Intervention,Palliative Care
+939,80,Stage IV,Chemotherapy,Surgical Intervention
+940,57,Stage IV,Chemotherapy,Surgical Intervention
+941,58,Stage I,Complementary Medicine,Palliative Care
+942,60,Stage II,Surgical Intervention,Palliative Care
+943,65,Stage I,Surgical Intervention,Palliative Care
+944,47,Stage I,Surgical Intervention,Palliative Care
+945,60,Stage III,Complementary Medicine,Palliative Care
+946,44,Stage IV,Chemotherapy,Surgical Intervention
+947,56,Stage II,Palliative Care,Palliative Care
+948,57,Stage I,Surgical Intervention,Palliative Care
+949,67,Stage I,Surgical Intervention,Palliative Care
+950,75,Stage IV,Palliative Care,Surgical Intervention
+951,79,Stage III,Chemotherapy,Complementary Medicine
+952,80,Stage II,Surgical Intervention,Palliative Care
+953,72,Stage II,Surgical Intervention,Palliative Care
+954,59,Stage II,Surgical Intervention,Palliative Care
+955,56,Stage II,Surgical Intervention,Palliative Care
+956,41,Stage I,Surgical Intervention,Palliative Care
+957,70,Stage IV,Chemotherapy,Surgical Intervention
+958,53,Stage I,Surgical Intervention,Complementary Medicine
+959,76,Stage III,Radiation Therapy,Palliative Care
+960,54,Stage III,Chemotherapy,Surgical Intervention
+961,72,Stage I,Surgical Intervention,Palliative Care
+962,54,Stage III,Chemotherapy,Complementary Medicine
+963,55,Stage II,Complementary Medicine,Palliative Care
+964,50,Stage II,Palliative Care,Complementary Medicine
+965,40,Stage III,Chemotherapy,Surgical Intervention
+966,77,Stage IV,Radiation Therapy,Surgical Intervention
+967,41,Stage IV,Chemotherapy,Surgical Intervention
+968,77,Stage II,Chemotherapy,Palliative Care
+969,65,Stage IV,Chemotherapy,Surgical Intervention
+970,63,Stage III,Chemotherapy,Palliative Care
+971,54,Stage I,Surgical Intervention,Complementary Medicine
+972,68,Stage III,Radiation Therapy,Palliative Care
+973,50,Stage II,Surgical Intervention,Palliative Care
+974,68,Stage IV,Chemotherapy,Surgical Intervention
+975,45,Stage III,Chemotherapy,Palliative Care
+976,65,Stage IV,Palliative Care,Surgical Intervention
+977,46,Stage I,Surgical Intervention,Palliative Care
+978,43,Stage II,Complementary Medicine,Palliative Care
+979,57,Stage I,Surgical Intervention,Palliative Care
+980,78,Stage I,Surgical Intervention,Complementary Medicine
+981,45,Stage IV,Palliative Care,Surgical Intervention
+982,59,Stage I,Surgical Intervention,Palliative Care
+983,51,Stage I,Surgical Intervention,Radiation Therapy
+984,43,Stage IV,Chemotherapy,Surgical Intervention
+985,56,Stage I,Surgical Intervention,Palliative Care
+986,69,Stage I,Surgical Intervention,Palliative Care
+987,62,Stage II,Surgical Intervention,Palliative Care
+988,75,Stage II,Surgical Intervention,Palliative Care
+989,57,Stage II,Surgical Intervention,Palliative Care
+990,52,Stage I,Surgical Intervention,Palliative Care
+991,80,Stage II,Radiation Therapy,Palliative Care
+992,44,Stage IV,Chemotherapy,Surgical Intervention
+993,44,Stage II,Chemotherapy,Palliative Care
+994,74,Stage I,Surgical Intervention,Palliative Care
+995,62,Stage II,Surgical Intervention,Palliative Care
+996,58,Stage IV,Radiation Therapy,Surgical Intervention
+997,42,Stage IV,Palliative Care,Surgical Intervention
+998,42,Stage IV,Chemotherapy,Surgical Intervention
+999,70,Stage II,Surgical Intervention,Complementary Medicine
