@@ -31,9 +31,9 @@ pip3 install datasets
 pip3 install trl
 pip3 install transformers
 ```
- - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior. Replace `cu129` with your current version.
+ - If using CUDA GPU, install that as well, make sure you have the correct CUDA toolkit also installed prior. Replace `cu130` with your current version.
 ```
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu129
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130
 ```
 
 ## DPO Training
@@ -102,8 +102,8 @@ Request access to Longleaf via the UNC Research Computing website. After receivi
 #SBATCH --mail-user=<onyen>@email.unc.edu
 
 module purge
-## Replace 12.9 with whatever version you created the environment with
-module load cuda/12.9
+## Replace 13.0 with whatever version you created the environment with
+module load cuda/13.0
 module load anaconda
 conda activate <env_name>
-python myscript.py
+python <myscript_name>.py
