@@ -4,15 +4,11 @@ AI Preference Optimization for Healthcare - centered around DPO and KTO training
 ## Getting Started
  - Skip ahead to Longleaf if using that
  - Start creating a Python project environment, I recommend a Conda environment
- - Miniconda install - Windows Powershell, run these commands separately
+ - Miniconda install - Windows Powershell, run these commands separately (or you can install it [here](https://www.anaconda.com/docs/getting-started/miniconda/install/overview))
 ```
 wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe" -outfile ".\miniconda.exe"
-```
-```
 Start-Process -FilePath ".\miniconda.exe" -ArgumentList "/AddToPath=1 /S" -Wait
-```
-```
-del .\miniconda.exe
+del .\miniconda.exeP
 ```
  - Restart the shell, navigate to the file location where you intend to work, and create a conda environment:
 ```
